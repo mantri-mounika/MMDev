@@ -1,0 +1,23 @@
+
+<DeadlineBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.deadline.DeadlineBuildingBlock"
+	typeVersion="39C9446C-EE2B-442E-9667-36CBA04D5B4D"
+	RuntimeDocumentID="48F17F44-149C-A1ED-924A-A197C509402E">
+	<DocumentID>48F17F44-149C-A1ED-924A-A197C509002E</DocumentID>
+	<Name>Deadlines</Name>
+	<Description>Deadlines</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-10-11T06:10:53.234</CreationDate>
+	<Notes/>
+	<Deadlines/>
+	<Entity>
+		<uri
+			id="48F17F44-149C-A1ED-924A-A197C50D802E"
+		/>
+	</Entity>
+	<InlinedEntities/>
+	<OwnedActions/>
+	<Properties/>
+	<Relationships/>
+</DeadlineBuildingBlock>
